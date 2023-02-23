@@ -1,7 +1,7 @@
 # decaf_mocha
 # GRIND 75 Problems and their nuts and bolts
 
-This repository contains my solutions to the GRIND 75 problems. The aim of this repository is to reflect my self-improvement journey in coding by documenting my progress in problem-solving skills.
+This repository contains my solutions to the GRIND 75 problems. The aim of this repository is to reflect my self-improvement journey in coding by documenting my progress in problem-solving skills. [Grind 75](https://www.techinterviewhandbook.org/grind75)
 
 ## Problem List
 
