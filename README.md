@@ -1,0 +1,27 @@
+# decaf_mocha
+# GRIND 75 Problems and their nuts and bolts
+
+This repository contains my solutions to the GRIND 75 problems. The aim of this repository is to reflect my self-improvement journey in coding by documenting my progress in problem-solving skills.
+
+## Problem List
+
+| # | Title | Solution | Time Complexity | Space Complexity |
+| --- | --- | --- | --- | --- |
+| 1 | Two Sum | [Python](./two-sum.py) | O(n) | O(n) |
+| 2 | Add Two Numbers | [Python](./add-two-numbers.py) | O(n) | O(n) |
+| 3 | Longest Substring Without Repeating Characters | [Python](./longest-substring-without-repeating-characters.py) | O(n) | O(n) |
+| ... | ... | ... | ... | ... |
+
+## Analysis
+
+### Time Complexity
+
+The time complexity of each solution is analyzed and documented in the table above. The notation used for time complexity is Big O notation.
+
+### Space Complexity
+
+The space complexity of each solution is analyzed and documented in the table above. The notation used for space complexity is Big O notation.
+
+## Contributing
+Constructive criticism is welcome. I would appreciate your comments, feedback, and any other suggestions you may have.
+
