@@ -21,8 +21,7 @@ Specifically, for each iteration of the outer loop, the inner loop iterates
 through the entire list to check whether the target minus the current element
 exists in the list. Therefore, the worst-case scenario occurs when the target
 minus the current element is at the end of the list, which requires the inner
-loop to iterate through the entire list. In this case, the total number of
-iterations is n*(n-1)/2, which is proportional to n^2.
+loop to iterate through the entire list.
 """
 """
 Space Complexity:
