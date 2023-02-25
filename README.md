@@ -7,7 +7,7 @@ This repository contains my solutions to the GRIND 75 problems. The aim of this 
 
 | # | Title | Solution | Time Complexity | Space Complexity |
 | --- | --- | --- | --- | --- |
-| 1 | Two Sum | [Python](./two-sum.py) | O(n^2) Best Solution O(n)| O(1) |
+| 1 | Two Sum | [Python](./1_Two_Sum.py) | O(n^2) Best Solution O(n)| O(1) |
 | 2 | Valid Parentheses | [Python](./add-two-numbers.py) | O(n) | O(n) |
 | 3 | Longest Substring Without Repeating Characters | [Python](./longest-substring-without-repeating-characters.py) | O(n) | O(n) |
 | ... | ... | ... | ... | ... |
