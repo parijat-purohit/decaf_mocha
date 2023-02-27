@@ -11,6 +11,7 @@ This repository contains my solutions to the GRIND 75 problems. The aim of this 
 | 2 | Valid Parentheses | [Solution](./20_Valid_Parentheses.py) |  | O(n) | O(n) |
 | 3 | Valid Palindrome| [Solution](./125_Valid_Palindrome.py) || O(n) | O(n) |
 | 4 | Best Time to Buy and Sell Stock | [Solution](./121_Best_Time_to_Buy_and_Sell_Stock.py) || O(n) | O(1) |
+| 5 | Binary Search | [Solution](./704_Binary_Search) || O(log N) | O(1)
 
 ## Analysis
 

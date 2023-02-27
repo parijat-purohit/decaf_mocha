@@ -1,0 +1,25 @@
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        low, high = 0, len(nums) - 1
+        while(low<=high):
+            mid = (low + high)//2
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] > target:
+                high=mid-1
+            else:
+                low=mid+1
+        return -1
+
+        """_summary_
+        This is simply the conventional binary search implementation.
+        Time Complexity:
+        The time complexity of this implementation is O(log n) in both the best and worst cases
+        Space Complexity:
+        The space complexity is O(1).
+        """
