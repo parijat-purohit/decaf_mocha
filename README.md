@@ -9,7 +9,7 @@ This repository contains my solutions to the GRIND 75 problems. The aim of this 
 | --- | --- | --- | --- | --- | --- |
 | 1 | Two Sum | [Solution](./1_Two_Sum.py) | [Best_Solution](./1_Two_Sum_Best_Solution.py) | My Solution: O(n^2)  <br>Best Solution: O(n)| O(1) |
 | 2 | Valid Parentheses | [Solution](./20_Valid_Parentheses.py) |  | O(n) | O(n) |
-| 3 | Longest Substring Without Repeating Characters | [Python](./longest-substring-without-repeating-characters.py) | O(n) | O(n) |
+| 3 | Valid Palindrome| [Solution](./125_Valid_Palindrome.py) | O(n) | O(n) |
 | ... | ... | ... | ... | ... |
 
 ## Analysis
